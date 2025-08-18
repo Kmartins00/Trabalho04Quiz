@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070775536817",
+    "firebase_url": "https://quiz-b3714-default-rtdb.firebaseio.com",
+    "project_id": "quiz-b3714",
+    "storage_bucket": "quiz-b3714.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070775536817:android:4fb7763f8a8413a9ce2690",
+        "android_client_info": {
+          "package_name": "com.example.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5_DRBEoF0jpbx0Z5jsqWhh7H2FaYv54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
